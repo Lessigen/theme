@@ -1,5 +1,5 @@
 /*
-|Thanks to: Kuer, Xaekai[xaemae], ss7(supersaw7) and kenblu24
+|Thanks to: Kuer, Xaekai[xaemae], ss7(supersaw7), kenblu24 and Lessigen
 |Theme by BILL(2) , You can find me on my discord channel discord.gg/fwadWd9
 |You are free to use (and edit) this theme but leave the credits in place for everyone involved.
 */
